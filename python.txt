@@ -1,0 +1,3 @@
+Python es un lenguaje de programación interpretado.
+    Python es multiparadigma y muy popular.
+    Python, python, PYTHON... siempre Python.

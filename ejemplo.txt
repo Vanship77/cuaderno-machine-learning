@@ -1,0 +1,3 @@
+Python es un lenguaje de programación interpretado.
+Su filosofía hace hincapié en la legibilidad del código.
+Es multiparadigma y multipropósito.
